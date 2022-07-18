@@ -3,7 +3,7 @@ import 'package:efood2/Orders/page/order.dart';
 import 'package:efood2/Profile/page/profile.dart';
 import 'package:efood2/Wallet/page/wallet_screen.dart';
 import 'package:efood2/carts/page/cart.dart';
-import 'package:efood2/homepage.dart';
+import 'package:efood2/homepage/page/homepage.dart';
 import 'package:efood2/navigationbar.dart';
 
 @MaterialAutoRouter(
